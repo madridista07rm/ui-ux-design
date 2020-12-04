@@ -1,1 +1,2 @@
-# ui-ux-design
+# ui-ux-design 
+Finance app made by using figma
