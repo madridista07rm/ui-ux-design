@@ -7,3 +7,6 @@ https://www.figma.com/file/nRqK9lwWbzbkoNScwST6Cr/Untitled?node-id=0%3A1
 
 website template for designers
 https://www.figma.com/file/xLdNyxqwPlBLRjqCQCF9Az/Untitled?node-id=0%3A1
+
+random hotel website design
+https://www.figma.com/file/WyiDJEUMOfiUaI0eGHeN7h/Untitled?node-id=0%3A1
